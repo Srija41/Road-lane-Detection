@@ -14,6 +14,7 @@ Includes optional Streamlit app for interactive visualization
 Fully compatible with Google Colab for fast testing
 
 🧠 Techniques Used
+
 Grayscale and Gaussian Blur preprocessing
 
 Canny Edge Detection
